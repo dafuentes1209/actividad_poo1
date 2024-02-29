@@ -7,7 +7,7 @@ public class ejercicio12 {
         double retencionFuente = (porcentaje_de_retencion / 100) * salarioBruto;
 
         double salarioNeto = salarioBruto - retencionFuente;
-        
+
         System.out.println("Salario bruto: $" + salarioBruto);
         System.out.println("Retención en la fuente: $" + retencionFuente);
         System.out.println("Salario neto: $" + salarioNeto);
